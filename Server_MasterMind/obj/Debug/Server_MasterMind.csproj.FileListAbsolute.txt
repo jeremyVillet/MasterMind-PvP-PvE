@@ -1,0 +1,11 @@
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Server_MasterMind.exe.config
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Server_MasterMind.exe
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Server_MasterMind.pdb
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Lib_MasterMind.dll
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Newtonsoft.Json.dll
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Lib_MasterMind.pdb
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\bin\Debug\Newtonsoft.Json.xml
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\obj\Debug\Server_MasterMind.csprojResolveAssemblyReference.cache
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\obj\Debug\Server_MasterMind.csproj.CoreCompileInputs.cache
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\obj\Debug\Server_MasterMind.exe
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Server_MasterMind\obj\Debug\Server_MasterMind.pdb

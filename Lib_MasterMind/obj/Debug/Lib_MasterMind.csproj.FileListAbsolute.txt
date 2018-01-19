@@ -1,0 +1,7 @@
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\bin\Debug\Lib_MasterMind.dll
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\bin\Debug\Lib_MasterMind.pdb
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\bin\Debug\Newtonsoft.Json.dll
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\bin\Debug\Newtonsoft.Json.xml
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\obj\Debug\Lib_MasterMind.csproj.CoreCompileInputs.cache
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\obj\Debug\Lib_MasterMind.dll
+C:\Jeremy\ASC2\2NET\MasterMind\MasterMind_Sol\Lib_MasterMind\obj\Debug\Lib_MasterMind.pdb
